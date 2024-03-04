@@ -59,6 +59,6 @@
 
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)](https://github.com/MadhavNainala/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavNainala&layout=compact)](https://github.com/MadhavNainala/github-readme-stats)
 
 ###
