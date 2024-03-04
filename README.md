@@ -1,6 +1,6 @@
 <p align="left">Hey there! I'm Pavan Madhav Nainala👋<br><br>🎓 I'm a proud graduate of Northeastern University, Boston, with a Masters degree in Information Systems. Currently on the lookout for exciting full-time opportunities across the US.<br><br>💼 With over 2 years and counting of hands-on experience in Software Development, Cloud Computing, and DevOps, I'm passionate about exploring cutting-edge technologies and pushing the boundaries of what's possible.</p>
 
-###
+###### Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
