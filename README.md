@@ -1,4 +1,4 @@
-<p align="left">Hey there! I'm Pavan Madhav Nainala👋<br><br>🎓 I'm a proud graduate of Northeastern University, Boston, with a Masters degree in Information Systems. Currently on the lookout for exciting full-time opportunities across the US.<br><br>💼 With over 3.1 years and counting of hands-on experience in Software Development, Cloud Computing, and DevOps, I'm passionate about exploring cutting-edge technologies and pushing the boundaries of what's possible.</p>
+<p align="left">Hey there! I'm Pavan Madhav Nainala👋<br><br>🎓 I'm a proud graduate of Northeastern University, Boston, with a Masters degree in Information Systems. Currently on the lookout for exciting full-time opportunities across the US.<br><br>💼 With over 4.1 years and counting of hands-on experience in Software Development, Cloud Computing, and DevOps, I'm passionate about exploring cutting-edge technologies and pushing the boundaries of what's possible.</p>
 
 ## Languages-Frameworks-Tools
 
